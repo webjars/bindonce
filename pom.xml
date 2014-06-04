@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bindonce</artifactId>
-    <version>0.3.1-SNAPSHOT</version>
+    <version>0.3.1</version>
     <name>Bindonce</name>
     <description>WebJar for Bindonce</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/bindonce</url>
         <connection>scm:git:https://github.com/webjars/bindonce.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bindonce.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>bindonce-0.3.1</tag>
     </scm>
     
     <dependencies>
